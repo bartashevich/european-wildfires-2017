@@ -15,3 +15,5 @@ python3 -m http.server 8000
 ```
 
 Access the website in a browser at `http://localhost:8000/`.
+
+Internet access to https://bartashevich.github.io/european-wildfires-2017/
