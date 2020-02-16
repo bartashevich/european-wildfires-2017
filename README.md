@@ -5,6 +5,9 @@ An overview of the wildfires in Europe during 2017.
 
 Webpage: https://bartashevich.github.io/european-wildfires-2017/
 
+## Documentation (in Portuguese)
+In the /docs folder
+
 ## Setup
 
 Create a server by doing (Python 2)
