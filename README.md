@@ -1,6 +1,10 @@
 # European Wildfires 2017
 An overview of the wildfires in Europe during 2017.
 
+## View online
+
+Webpage: https://bartashevich.github.io/european-wildfires-2017/
+
 ## Setup
 
 Create a server by doing (Python 2)
@@ -15,5 +19,3 @@ python3 -m http.server 8000
 ```
 
 Access the website in a browser at `http://localhost:8000/`.
-
-Internet access to https://bartashevich.github.io/european-wildfires-2017/
